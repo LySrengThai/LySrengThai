@@ -22,3 +22,12 @@ Currently seeking full-time software developer roles in the U.S.
 **Frameworks & Tools:** Laravel, React, Flutter, Bootstrap, FastAPI, GitHub  
 **Databases:** Oracle DB, MySQL, MongoDB, Firebase  
 **Other Skills:** Strong problem-solver, clear communicator, creative thinker  
+
+---
+
+## 🌐 Connect With Me  
+
+📫 **Email:** [Thailysreng33@gmail.com](mailto:Thailysreng33@gmail.com)  
+💼 **LinkedIn:** [Lysreng Thai](http://www.linkedin.com/in/lysreng-thai-49b401339)  
+🌍 **Portfolio:** [Check out my work](https://lysreng-thai-portfolio-fjl0wtym1-lysreng-thais-projects.vercel.app/)  
+🐙 **GitHub:** [github.com/LySrengThai](https://github.com/LySrengThai)  
